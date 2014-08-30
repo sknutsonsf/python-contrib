@@ -4,7 +4,7 @@ Created on Aug 16, 2014
 Enable a DJango database object to be modified by a data form or batch process
 and only save to disk when data was actually changed.
 
-Based on http://stackoverflow.com/a/15321187/3949006
+Based on http://stackoverflow.com/a/13842223
 
 Improvements:
 * removed python 2 compatibility to simplify code
